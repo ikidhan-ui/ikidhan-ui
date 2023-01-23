@@ -15,3 +15,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.instagram.com/ikidhan">
+<img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ikidhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
