@@ -21,3 +21,5 @@
 <p align="center">
 <a href="https://www.instagram.com/ikidhan">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ikidhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ikidhan">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-Rizki Ramadhan-4E94EC?style=flat&logo=LinkedIn&logoColor=0a0b24"/></a>
