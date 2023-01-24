@@ -7,7 +7,7 @@
 ### 🛠 &nbsp;Tech Stacks
 
 ![Java](https://img.shields.io/badge/-Java-280137?style=flat&logo=java)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-280137?style=flat&logo=dart)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-280137?style=flat&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
