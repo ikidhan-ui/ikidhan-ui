@@ -6,7 +6,6 @@
 
 ### 🛠 &nbsp;Tech Stacks
 
-![Java](https://img.shields.io/badge/-Java-280137?style=flat&logo=java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-280137?style=flat&logo=kotlin)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
